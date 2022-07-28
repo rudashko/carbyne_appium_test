@@ -15,8 +15,8 @@ There are two types of applications: native (Swift/Object-C and Java/Kotlin) and
  
 Here is my explanation of the project structure:
 
-Stack: Java + Appium + Maven + TestNG + Allure Reports
-Pattern: PageFactory
+- Stack: Java + Appium + Maven + TestNG + Allure Reports
+- Pattern: PageFactory
 
 - App resources are in "app" package.
 - Screens' locators and action over them are in "screens" package.
